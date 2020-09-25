@@ -1,0 +1,22 @@
+.mario {
+    width: 175px;
+    text-align: center;
+    height: 200px;
+    border-radius: 50%;
+    background-color: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    z-index: 9;
+}
+
+.BASICREF {
+    text-align: center;
+    display: table;
+    background-color: cadetblue;
+}
+
+.Favorio {
+    text-align: center;
+    display: table-cell;
+}
+.univ{
+    background-color: aquamarine
+}
